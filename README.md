@@ -7,4 +7,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohenriquedev&layout=compact&theme=vue-dark"></div>
 <br/>
 
-<div align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></div>
+
+<a align="center" href="https://www.linkedin.com/in/leonardohenriquemachado/" rel="meu linkedin">![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
