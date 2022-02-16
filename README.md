@@ -126,9 +126,11 @@
 <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohenriquedev&layout=compact&theme=vue-dark&locale=pt-br">  
 </div>
 
+<div align="center" style="display: flex"> 
+  <div>
+    <a href="https://www.linkedin.com/in/leonardohenriquemachado/"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </div>
 
-
-
-
-
-.<div align="center"> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leonardohenriquemachado/)<div align="center"> ![](https://komarev.com/ghpvc/?username=your-github-leonardohenriquedev&color=green)</div></div>
+<img  src="https://komarev.com/ghpvc/?username=your-github-leonardohenriquedev&color=green">
+  </div>
