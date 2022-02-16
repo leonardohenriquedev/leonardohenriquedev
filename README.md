@@ -122,8 +122,8 @@
 
 
 <div style="display: inline_block" align="center"><br>
-<img height="150"  src="https://github-readme-stats.vercel.app/api?username=leonardohenriquedev&show_icons=true&theme=vue-dark&hide=stars,issues&locale=pt-br">
-<img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohenriquedev&layout=compact&theme=vue-dark&locale=pt-br">  
+<img height="140"  src="https://github-readme-stats.vercel.app/api?username=leonardohenriquedev&show_icons=true&theme=vue-dark&hide=stars,issues&locale=pt-br">
+<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohenriquedev&layout=compact&theme=vue-dark&locale=pt-br">  
 </div>
 
 
