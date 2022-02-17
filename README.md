@@ -63,7 +63,7 @@
 
 <hr>
 
-🌱 Atualmente aprendendo as tecnologias: SQL, Node.js, Mocha, Chai e Sinon, Rest e Restful,ORM e Autenticação, Deploy, TypeScript, POO e SOLID, MongoDB, Python, Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
+🌱 Atualmente aprendendo as tecnologias: SQL, Node.js, Mocha, Chai e Sinon, Rest e Restful, ORM e Autenticação, Deploy, TypeScript, POO e SOLID, MongoDB, Python, Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
 <p align="left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
