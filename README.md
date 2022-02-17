@@ -1,6 +1,6 @@
 
 # <div align="center">Oi, eu sou o Leonardo Henrique 🙋‍♂️</div>
-#### <div align="center">  💻 < FrontEnd Developer /> < Full-Stack Development Student /></div>
+#### <div align="center">  💻 FrontEnd Developer | Full-Stack Development Student</div>
 
 🔭 Atualmente trabalho com HTML, CSS, JavaScript, Bibliotecas JavaScript e Frameworks CSS, JavaScript Assíncrono e Callbacks, Testes Assíncronos com Jest, React, React Router, Metodologias Ágeis (Scrum e Kanbam), Testes automatizados com React Testing Library, Redux, Context API e React Hooks, Docker..
 
