@@ -2,7 +2,7 @@
 # <div align="center">Oi, eu sou o Leonardo Henrique 🙋‍♂️</div>
 #### <div align="center">  💻 FrontEnd Developer | Full-Stack Development Student</div>
 
-🔭 Atualmente trabalho com HTML, CSS, JavaScript, Bibliotecas JavaScript e Frameworks CSS, JavaScript Assíncrono e Callbacks, Testes Assíncronos com Jest, React, React Router, Metodologias Ágeis (Scrum e Kanbam), Testes automatizados com React Testing Library, Redux, Context API e React Hooks, Docker..
+✨ Atualmente trabalho com: HTML, CSS, JavaScript, React, Redux, Context API, Hooks, Jest, RTL,  Docker.. Metodologias Ágeis (Scrum e Kanbam)
 
 <p align="left">
     <img
@@ -38,12 +38,6 @@
     <img
     src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
     alt="jest"
-    width="30"
-    height="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-    alt="cypress"
     width="30"
     height="30"
   />
