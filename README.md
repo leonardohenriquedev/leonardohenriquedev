@@ -59,6 +59,24 @@
     width="30"
     height="30"
   />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+    width="30"
+    height="30"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+    width="30"
+    height="30"
+    />
+        <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+    width="30"
+    height="30"
+    />
 </p>
 
 <hr>
@@ -72,29 +90,12 @@
     height="30"
     />
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-    width="30"
-    height="30"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-    width="30"
-    height="30"
-    />
-    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
     width="30"
     height="30"
     />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-    width="30"
-    height="30"
-    />
+
 </p>
 
 
