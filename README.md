@@ -2,7 +2,7 @@
 # <div align="center">Oi, eu sou o Leonardo Henrique 🙋‍♂️</div>
 #### <div align="center">  💻 Full-Stack  Developer</div>
 
-✨ Atualmente trabalho com: HTML, CSS, JavaScript, React, Redux, Context API, Hooks, Jest, RTL,  Docker.. Metodologias Ágeis (Scrum e Kanbam)
+✨ Atualmente trabalho com: HTML, CSS, JavaScript, React, Redux, Context API, Hooks, Jest, RTL,  Docker, SQL, Node.js, Mocha, Chai e Sinon, Rest e Restful, ORM e Autenticação, Deploy, TypeScript, POO e SOLID, MongoDB. Metodologias Ágeis (Scrum e Kanbam)
 
 <p align="left">
     <img
@@ -71,9 +71,15 @@
     width="30"
     height="30"
     />
-        <img
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+    width="30"
+    height="30"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
     width="30"
     height="30"
     />
@@ -81,14 +87,8 @@
 
 <hr>
 
-🌱 Atualmente aprendendo as tecnologias: SQL, Node.js, Mocha, Chai e Sinon, Rest e Restful, ORM e Autenticação, Deploy, TypeScript, POO e SOLID, MongoDB, Python, Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
+🌱 Atualmente aprendendo as tecnologias: Python, Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
 <p align="left">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-    width="30"
-    height="30"
-    />
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
