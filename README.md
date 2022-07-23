@@ -2,7 +2,20 @@
 # <div align="center">Oi, eu sou o Leonardo Henrique 🙋‍♂️</div>
 #### <div align="center">  💻 Full-Stack  Developer</div>
 
-✨ Atualmente trabalho com: HTML, CSS, JavaScript, React, Redux, Context API, Hooks, Jest, RTL,  Docker, SQL, Node.js, Mocha, Chai e Sinon, Rest e Restful, ORM e Autenticação, Deploy, TypeScript, POO e SOLID, MongoDB. Metodologias Ágeis (Scrum e Kanbam)
+Linguagens: C, C++, C#, Java, Python, Javascript, Typescript (SOLID e POO).
+
+Back-end: Node.js, Docker, SQL, Mongo, Nest, Sequelize, Prisma, Mongoose, Express, Typescript, API Rest e Restful, Autenticação.. Testes com Mocha, Chai e Sinon.
+
+Front-end: HTML, CSS, React, React Router, Redux, Context API, React Hooks, Bootstrap, MaterialUi..
+
+Mobile: React-Native.
+
+Conhecimentos básicos em Arquitetura de Software e Deploy.
+
+Ferramentas/tecnologias: Unix & Bash, Git, GitHub, Bitbucket, MSQLWorkbench, Dbeaver, Jira, Trello, Slack, Discord, Zoom, GMeet..
+
+Portfólio: https://leonardohenrique.vercel.app/
+Github: https://github.com/leonardohenriquedev
 
 <p align="left">
     <img
@@ -87,7 +100,7 @@
 
 <hr>
 
-🌱 Atualmente aprendendo as tecnologias: Python, Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
+🌱 Atualmente aprendendo: Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
 <p align="left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
