@@ -96,21 +96,17 @@ Github: https://github.com/leonardohenriquedev
     width="30"
     height="30"
     />
-</p>
-
-<hr>
-
-🌱 Atualmente aprendendo: Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
-<p align="left">
-    <img
+     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
     width="30"
     height="30"
     />
-
 </p>
 
+<hr>
+
+🌱 Atualmente aprendendo: Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
 
 📫 Fale comigo pelo email leonardomachado@hotmail.co.uk
 
