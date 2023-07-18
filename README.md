@@ -2,20 +2,21 @@
 # <div align="center">Oi, eu sou o Leonardo Henrique 🙋‍♂️</div>
 #### <div align="center">  💻 Full-Stack  Developer</div>
 
-Linguagens: C, C++, C#, Java, Python, Javascript, Typescript (SOLID e POO).
+Sou uma pessoa que preza pela colaboração, gosto de ajudar os colegas e também de pedir ajuda logo que preciso. Gosto de contribuir na organização da equipe dando sugestões de melhorias dos processos de desenvolvimento e também de participar ativamente nos debates sobre requisitos e melhorias de uma aplicação. Acredito que manter um bom relacionamento entre equipe seja a chave para boas entregas. Gosto de trabalhar com metodologias ágeis de desenvolvimento, como Scrum e Kanban. 
+Sempre buscando novas tecnologias e aprendendo ferramentas novas.
 
-Back-end: Node.js, Docker, SQL, Mongo, Nest, Sequelize, Prisma, Mongoose, Express, Typescript, API Rest e Restful, Autenticação.. Testes com Mocha, Chai e Sinon.
+Linguagens (Avançado): Javascript, Typescript (SOLID e POO).
+Linguagens (Básico): C, C++, C#, Java, Python, 
 
-Front-end: HTML, CSS, React, React Router, Redux, Context API, React Hooks, Bootstrap, MaterialUi..
+Front-end: React, Remix, Next, React Router, Redux, Context API, React Hooks, Bootstrap, MaterialUi, HTML, CSS..
+
+Back-end: Node.js, Docker, SQL, Mongo, Nest, Sequelize, Prisma, Mongoose, Express, API Rest e Restful, Autenticação.. Testes com Mocha, Chai e Sinon.
 
 Mobile: React-Native.
 
 Conhecimentos básicos em Arquitetura de Software e Deploy.
 
-Ferramentas/tecnologias: Unix & Bash, Git, GitHub, Bitbucket, MSQLWorkbench, Dbeaver, Jira, Trello, Slack, Discord, Zoom, GMeet..
-
-Portfólio: https://leonardohenrique.vercel.app/
-Github: https://github.com/leonardohenriquedev
+Ferramentas/tecnologias: Linux, Unix & Bash, Git, GitHub, Bitbucket, Heroku, Vercel..
 
 <p align="left">
     <img
@@ -105,8 +106,6 @@ Github: https://github.com/leonardohenriquedev
 </p>
 
 <hr>
-
-🌱 Atualmente aprendendo: Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
 
 📫 Fale comigo pelo email leonardomachado@hotmail.co.uk
 
