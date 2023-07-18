@@ -6,6 +6,7 @@ Sou uma pessoa que preza pela colaboração, gosto de ajudar os colegas e també
 Sempre buscando novas tecnologias e aprendendo ferramentas novas.
 
 Linguagens (Avançado): Javascript, Typescript (SOLID e POO).
+<br>
 Linguagens (Básico): C, C++, C#, Java, Python, 
 
 Front-end: React, Remix, Next, React Router, Redux, Context API, React Hooks, Bootstrap, MaterialUi, HTML, CSS..
