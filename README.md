@@ -114,9 +114,9 @@ Ferramentas/tecnologias: Linux, Unix & Bash, Git, GitHub, Bitbucket, Heroku, Ver
 
 <hr>
 
-<div style="display: inline_block" align="center"><br>
-<img height="140"  src="https://github-readme-stats.vercel.app/api?username=leonardohenriquedev&show_icons=true&theme=vue-dark&hide=stars,issues&locale=pt-br">
-<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohenriquedev&layout=compact&theme=vue-dark&locale=pt-br">  
+<div style="display: inline_block" align="center"><br> 
+<img height="200"  src="https://github-readme-stats.vercel.app/api?username=leonardohenriquedev&show_icons=true&theme=vue-dark&issues&locale=pt-br&include_all_commits=true&count_private=true">
+<img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohenriquedev&layout=compact&theme=vue-dark&locale=pt-br">  
 </div>
 
 <br>
